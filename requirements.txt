@@ -1,0 +1,11 @@
+uvicorn
+fastapi
+hugchat
+pypdf2
+python-dotenv
+chromadb
+sentence_transformers
+claude-api
+langchain
+streamlit
+boto3
